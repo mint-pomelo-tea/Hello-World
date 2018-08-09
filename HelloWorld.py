@@ -5,3 +5,4 @@ print("Hello World!!!")
 print("Git Branch feature-A")
 print("Fix B")
 >>>>>>> fix-B
+feature-C
